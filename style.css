@@ -21,6 +21,10 @@ h1 {
     border-color: rgb(0, 0, 0);
     border-collapse: separate;
     border: 50;
+    table-layout: fixed;
+    width: 70%;
+    margin: auto;
+
 }
 .title{
     background-color: #04AA6D;
